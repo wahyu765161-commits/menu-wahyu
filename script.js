@@ -71,7 +71,7 @@ const menuData = [
         category: "minuman",
         price: 20000,
         rating: 4.8,
-        image: "https://images.unsplash.com/photo-1553787499-6f3fddbe020b?auto=format&fit=crop&w=700&q=80",
+        image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&w=700&q=80",
         description: "Susu segar dengan strawberry manis dan creamy."
     },
 
